@@ -19,8 +19,8 @@ class RacingPage extends Component {
         <Panel>
           <h2>Racing</h2>
           <p>A number of our club members compete regularly in the local cyclocross circuit and we've also started taking part in the LVCC Tuesday 10s time trials at the Lee Valley VeloPark and have even entered the odd criterium.</p>
-          <p>Keeping it South, Herne Hill velodrome is our local track and it offers not only a great 'cross circuit but also training sessions for various disiplines.</p>
-          <p>Most of the organising for the club takes place in our WhatsApp group - <Link to='/contact'>get in touch</Link> if you'd like to be added.</p>
+          <p>Keeping it South, Herne Hill velodrome is our local track and it offers not only a great 'cross circuit but also training sessions for various disiplines: we have regular club track cycling training sessions too.</p>
+          <p>Most of the organising for these activities takes place on Slack - <Link to='/contact'>get in touch</Link> if you'd like to be added to a specific group.</p>
         </Panel>
       </PageWrapper>
     )
